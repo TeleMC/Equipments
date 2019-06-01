@@ -1,0 +1,11 @@
+name: Equipments
+main: Equipments\Equipments
+version: "1.0.0"
+author: TeleMC
+api:
+  - 3.2.0
+  - 3.3.0
+  - 4.0.0
+commands:
+  장비:
+    description: 장비 관련 명령어입니다.
